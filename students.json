@@ -1,0 +1,26 @@
+[
+    {
+        "id": "104",
+        "name": "Agnes",
+        "marks": 75.5,
+        "age": 18
+    },
+    {
+        "id": "101",
+        "name": "Nyarie",
+        "marks": 92.5,
+        "age": 19
+    },
+    {
+        "id": "102",
+        "name": "Privilege",
+        "marks": 88.0,
+        "age": 20
+    },
+    {
+        "id": "103",
+        "name": "Titus",
+        "marks": 82.0,
+        "age": 19
+    }
+]
