@@ -1,6 +1,6 @@
 ===========================================================
 PROJECT: STUDENT RECORD SYSTEM (MERGE SORT)
-DEVELOPER:TEAM MERGE SORT
+DEVELOPER:Teererai Kagura
 DATE: 10 MARCH 2026   
 ===========================================================
 
